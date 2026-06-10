@@ -1,0 +1,6 @@
+with open("numbers.txt", "w") as f:
+    f.write("10\n")
+    f.write("20\n")
+    f.write("30\n")
+
+print("File created successfully!")
